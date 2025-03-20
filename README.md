@@ -2,7 +2,7 @@
 
 **AlligatorBot** is a handy Discord bot built to make your server more useful and fun. With tools for quick calculations, currency conversions, latency checks, and more, it’s designed to be easy to use and packed with features to enhance your Discord experience.
 
-**[Check Out AlligatorBot with a Sleek Design](https://yourusername.github.io/AlligatorBot/)** – Explore the full experience!
+**[Check Out AlligatorBot with a Sleek Design](https://TheSudxx.github.io/Alligator/)** – Explore the full experience!
 
 ---
 
