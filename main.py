@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix=PREFIX, intents=intents, help_command=None)
 
 @bot.event
 async def on_ready():
-    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="Cricket"))
+    await bot.change_presence(activity=discord.Activity(type=discord.ActivityType.watching, name="!help | /help"))
     print(f"Your {bot.user} Is online")
 
 async def load_extensions():
