@@ -12,9 +12,8 @@ class Help(commands.Cog):
             color=discord.Color.green()
         )
         embed.set_author(name=self.bot.user.name, icon_url=self.bot.user.avatar.url if self.bot.user.avatar else None)
-        embed.set_thumbnail(url=self.bot.user.avatar.url if self.bot.user.avatar else None)  # Bot ka avatar thumbnail
+        embed.set_thumbnail(url=self.bot.user.avatar.url if self.bot.user.avatar else None)  
 
-        # Commands aur unki details
         embed.add_field(
             name=f"{self.bot.command_prefix}calc",
             value="Performs basic arithmetic operations (+, -, ×, ÷,).",
