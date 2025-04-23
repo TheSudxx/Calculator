@@ -1,8 +1,6 @@
-# AlligatorBot
+# Calculator Bot
 
-**AlligatorBot** is a handy Discord bot built to make your server more useful and fun. With tools for quick calculations, currency conversions, latency checks, and more, it’s designed to be easy to use and packed with features to enhance your Discord experience.
-
-**[Check Out AlligatorBot with a Sleek Design](https://TheSudxx.github.io/Alligator/)** – Explore the full experience!
+**Calculator Bot** is a handy Discord bot built to make your server more useful and fun. With tools for quick calculations, currency conversions, latency checks, and more, it’s designed to be easy to use and packed with features to enhance your Discord experience.
 
 ---
 
@@ -16,7 +14,7 @@
 
 ### Get Started
 - **[Join Our Support Server](https://discord.gg/D64CyEQ26W)** – Hang out with our community for help and updates.
-- **[Invite AlligatorBot](https://discord.com/oauth2/authorize?client_id=833248024326963201&permissions=37080129&scope=bot)** – Add the bot to your server and start using it today!
+- **[Invite Calculator Bot](https://discord.com/oauth2/authorize?client_id=833248024326963201&permissions=37080129&scope=bot)** – Add the bot to your server and start using it today!
 
 ---
 
